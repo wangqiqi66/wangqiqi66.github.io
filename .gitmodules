@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-ladder"]
+	path = themes/hugo-theme-ladder
+	url = https://gitee.com/JAVA-wyq/hugo-theme-ladder.git
